@@ -1,5 +1,5 @@
 {
-	"name": "anod/gmail-imap",
+	"name": "ravendra/gmail-imap",
 	"description": "API to work with Gmail using IMAP built on top of Zend Imap Library",
 	"keywords": ["gmail", "imap"],
 	"homepage": "https://github.com/ravendrapayasi/gmail-imap",
